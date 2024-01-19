@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 976,
+    "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Assassination/canvas/",
+    "label" : {
+      "none" : [ "Assassination" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Assassination/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Assassination/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 31,
+              "height" : 24
+            }, {
+              "width" : 61,
+              "height" : 48
+            }, {
+              "width" : 122,
+              "height" : 96
+            }, {
+              "width" : 244,
+              "height" : 192
+            }, {
+              "width" : 488,
+              "height" : 384
+            }, {
+              "width" : 976,
+              "height" : 768
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 976,
+            "@id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Assassination",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 768
+          } ],
+          "format" : "image/jpeg",
+          "width" : 976,
+          "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Assassination/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 768
+        },
+        "target" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Assassination/canvas/"
+      } ]
+    } ],
+    "height" : 768
+  }, {
     "width" : 512,
     "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/anjou/canvas/",
     "label" : {
