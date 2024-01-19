@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 669,
+    "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Princesse_Montpensier/canvas/",
+    "label" : {
+      "none" : [ "Princesse_Montpensier" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Princesse_Montpensier/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Princesse_Montpensier/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 21,
+              "height" : 21
+            }, {
+              "width" : 42,
+              "height" : 41
+            }, {
+              "width" : 84,
+              "height" : 82
+            }, {
+              "width" : 168,
+              "height" : 163
+            }, {
+              "width" : 335,
+              "height" : 326
+            }, {
+              "width" : 669,
+              "height" : 652
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 669,
+            "@id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Princesse_Montpensier",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 652
+          } ],
+          "format" : "image/jpeg",
+          "width" : 669,
+          "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Princesse_Montpensier/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 652
+        },
+        "target" : "https://maximerollandsauvage.github.io/HenriIIIF/images/Princesse_Montpensier/canvas/"
+      } ]
+    } ],
+    "height" : 652
+  }, {
     "width" : 366,
     "id" : "https://maximerollandsauvage.github.io/HenriIIIF/images/black_portrait/canvas/",
     "label" : {
