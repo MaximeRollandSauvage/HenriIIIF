@@ -1,0 +1,117 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "expression",
+      "@type" : "oa:Tag",
+      "chars" : "expression"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "he has mischievous eyes. which is very different from his at-the-time portrait.&nbsp;\nHe also wears make-up. It's a way of showing him as an elegant, and self-caring person.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>he has mischievous eyes. which is very different from his at-the-time portrait.&nbsp;</p>\n<p>He also wears make-up. It's a way of showing him as an elegant, and self-caring person.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-02-02T15:16:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706886987618",
+    "dcterms:modified" : "2024-02-02T15:16:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c7b2ca3a-7e94-461d-b6d1-799417429290"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=166,72,73,26"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M165.95455,71.63636h36.45455v0h36.45455v12.81818v12.81818h-36.45455h-36.45455v-12.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6c85735b-3118-4307-be35-b8c93de75a78\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3abbd0e8-7218-4fd4-93f0-bb6a025998a4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "expression",
+      "@type" : "oa:Tag",
+      "chars" : "expression"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "He has a little smirk, giving him an expression of kindness but also irony.&nbsp;\nHenri was a very spiritual person, fond of puns and wordplay. We can find that in this impersonnation.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>He has a little smirk, giving him an expression of kindness but also irony.&nbsp;</p>\n<p>Henri was a very spiritual person, fond of puns and wordplay. We can find that in this impersonnation.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-02-02T15:18:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706887120235",
+    "dcterms:modified" : "2024-02-02T15:18:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c7b2ca3a-7e94-461d-b6d1-799417429290"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=174,106,54,22"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M174.13636,106.18182h26.90909v0h26.90909v11v11h-26.90909h-26.90909v-11z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c99a9232-f380-4b12-a4a0-09147b52dd8e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3abbd0e8-7218-4fd4-93f0-bb6a025998a4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "outfit",
+      "@type" : "oa:Tag",
+      "chars" : "outfit"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "He wears a very pricy outfit, as a proper Prince. The red is the color of power.\n&nbsp;\nNote : every character of the movie has one assigned color.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>He wears a very pricy outfit, as a proper Prince. The red is the color of power.</p>\n<p>&nbsp;</p>\n<p>Note : every character of the movie has one assigned color.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-02-02T15:20:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706887243782",
+    "dcterms:modified" : "2024-02-02T15:20:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c7b2ca3a-7e94-461d-b6d1-799417429290"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=98,126,176,58"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M162.5,127.27273c-12.30275,6.15137 -21.62315,18.0843 -34.54545,24.54545c-9.19382,4.59691 -21.40504,5.95049 -28.18182,12.72727c-2.25484,2.25484 -1.68233,13.84015 0,16.36364c0.91521,1.37281 9.65336,0.90909 11.81818,0.90909c10.96387,0 20.98103,0.89111 31.81818,-1.81818c12.1098,-3.02745 29.05283,0.75123 40.90909,2.72727c19.64845,3.27474 41.86436,0.27273 61.81818,0.27273c7.47909,0 19.75532,2.25522 27.27273,0c1.78135,-0.53441 -1.81818,-11.78924 -1.81818,-13c0,-3.33297 1.47948,-10.67741 0,-13.63636c-1.84371,-3.68742 -6.5879,-3.86062 -9.09091,-6.36364c-4.50458,-4.50458 -13.23956,-11.61978 -19.09091,-14.54545c-4.69519,-2.34759 -20.40626,-10.47064 -24.54545,-9.09091c-4.47404,1.49135 -6.06082,8.03041 -10,10c-5.59187,2.79594 -11.63242,6.60475 -16.36364,8.18182c-7.0201,2.34003 -18.93319,0.07886 -24.54545,-2.72727c-4.00049,-2.00024 -8.34249,-10.90909 -9.09091,-10.90909\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_8a348d1c-4e0f-43d1-9a27-e1515b78f2b4\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3abbd0e8-7218-4fd4-93f0-bb6a025998a4"
+    } ]
+  } ],
+  "@id" : "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Princesse_Montpensier.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
