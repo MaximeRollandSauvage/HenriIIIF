@@ -1,0 +1,228 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "outfit",
+      "@type" : "oa:Tag",
+      "chars" : "outfit"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "He has his hands on his sword. It shows an agressive personnality. This is aligned with his personnality as Duke of Anjou. He will change totally once he becomes King in 1574.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>He has his hands on his sword. It shows an agressive personnality. This is aligned with his personnality as Duke of Anjou. He will change totally once he becomes King in 1574.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-02-02T15:11:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706886706544",
+    "dcterms:modified" : "2024-02-02T15:11:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c7b2ca3a-7e94-461d-b6d1-799417429290"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=409,453,136,233"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M408.57865,452.51979h67.97546v0h67.97546v116.68488v116.68488h-67.97546h-67.97546v-116.68488z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e29f09b8-d3b5-4ef4-a0ec-3c0f23aefcec\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f4d69452-68a1-48e0-b77f-d836dadfbbec"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Fran&ccedil;ois, Duke of Alen&ccedil;on, Henri young brother. He is portrayed by Dimitri Rassam.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Fran&ccedil;ois, Duke of Alen&ccedil;on, Henri young brother. He is portrayed by Dimitri Rassam.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "character",
+      "@type" : "oa:Tag",
+      "chars" : "character"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-02T14:54:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706885690160",
+    "dcterms:modified" : "2024-02-02T15:00:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c7b2ca3a-7e94-461d-b6d1-799417429290"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=812,135,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M816.13636,148.74471c0,-3.0303 1.51515,-6.06062 4.54545,-9.09092c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06062 4.54545,9.09092z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_161b0eff-3cca-4a1f-bfed-c02e7e6effd5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f4d69452-68a1-48e0-b77f-d836dadfbbec"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "expression",
+      "@type" : "oa:Tag",
+      "chars" : "expression"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "His hair is long, which is anachronic for the time. From the portrait, we also know that Henri has shorter hair. But it enforces the impression of brutality",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>His hair is long, which is anachronic for the time. From the portrait, we also know that Henri has shorter hair. But it enforces the impression of brutality</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-02-02T15:02:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706886154642",
+    "dcterms:modified" : "2024-02-02T15:02:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c7b2ca3a-7e94-461d-b6d1-799417429290"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=230,42,234,271"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M316.37173,94.77435c0,31.64711 -0.62557,64.00603 6.65083,93.11164c2.9395,11.75801 0,56.26708 0,69.83373c0,13.30166 0,26.60333 0,39.90499c0,0.12026 0.77453,12.9144 0,13.30166c-17.07625,8.53813 -20.67063,-5.52673 -33.25416,-14.96437c-5.78493,-4.3387 -10.30854,-10.22547 -16.62708,-14.96437c-17.67108,-13.25331 -34.70439,-22.64049 -41.5677,-43.2304c-5.02608,-15.07824 2.29379,-54.25845 11.63895,-69.83373c6.64257,-11.07096 16.22032,-21.00506 23.27791,-31.59145c0.9223,-1.38346 -0.61751,-3.44434 0,-4.98812c3.48243,-8.70607 11.07052,-17.67877 13.30166,-26.60333c0.80653,-3.22613 -0.65217,-6.71541 0,-9.97625c0.3919,-1.95952 2.43174,-3.20077 3.32542,-4.98812c0.99145,-1.98289 -0.53769,-4.50008 0,-6.65083c1.51729,-6.06916 5.98156,-12.63239 9.97625,-16.62708c1.4532,-1.4532 0.83977,-6.66767 1.66271,-8.31354c0.15719,-0.31438 9.79586,-3.23522 9.97625,-3.32542c7.70246,-3.85123 10.19019,-7.27638 18.28979,-9.97625c3.70839,-1.23613 9.43702,0.55209 13.30166,0c8.88286,-1.26898 25.05331,-4.92051 33.25416,0c4.1905,2.5143 5.23524,5.94304 9.97625,8.31354c4.62857,2.31428 8.94409,6.13475 13.30166,8.31354c0.99145,0.49572 2.54161,-0.78381 3.32542,0c0.78381,0.78381 -0.78381,2.54161 0,3.32542c0.78381,0.78381 2.25004,-0.26884 3.32542,0c2.49538,0.62384 7.9817,6.319 9.97625,8.31354c5.18288,5.18288 8.74368,20.87065 9.97625,28.26603c1.08935,6.53613 4.33351,12.49649 6.65083,18.28979c2.69463,6.73658 1.03557,19.73379 3.32542,26.60333c3.33577,10.00732 4.56998,17.86178 6.65083,28.26603c0.64006,3.20029 14.8513,26.49026 16.62708,28.26603c2.14176,2.14176 8.95164,7.92704 9.97625,9.97625c4.61598,9.23195 -4.17538,20.83967 -6.65083,28.26603c-2.45812,7.37435 -6.32963,12.65926 -9.97625,19.95249c-0.66508,1.33017 0.66508,3.65796 0,4.98812c-2.81902,5.63803 -7.64231,15.95585 -9.97625,18.28979c-4.56241,4.56241 -3.91202,11.54119 -13.30166,9.97625c-24.97581,-4.16263 -32.39674,-38.94334 -36.57957,-59.85748c-4.3445,-21.72251 3.14901,-50.48552 6.65083,-71.49644c1.90208,-11.41247 7.35059,-24.76725 4.98812,-36.57957c-2.35157,-11.75785 -12.07874,-18.94946 -18.28979,-28.26603c-2.43502,-3.65253 -3.16407,-9.8149 -6.65083,-13.30166c-3.46549,-3.46549 -30.17822,-5.4592 -36.57957,-3.32542c-5.0121,1.6707 -8.33196,6.65083 -13.30166,6.65083\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_85035179-dead-4330-b777-68dbb7b04e43\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f4d69452-68a1-48e0-b77f-d836dadfbbec"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "expression",
+      "@type" : "oa:Tag",
+      "chars" : "expression"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "He has very mean eyes. He also seems angry, which could be explained by the fact that he does not want this marriage to happen, but could also be a hint of the Saint-Barthelemy to come.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>He has very mean eyes. He also seems angry, which could be explained by the fact that he does not want this marriage to happen, but could also be a hint of the Saint-Barthelemy to come.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-02-02T15:08:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706886493317",
+    "dcterms:modified" : "2024-02-02T15:08:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c7b2ca3a-7e94-461d-b6d1-799417429290"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=298,126,108,29"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M297.74466,126.0285h54.20665v0h54.20665v14.30166v14.30166h-54.20665h-54.20665v-14.30166z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_772e9caf-2004-4541-acd5-9b146d8af5ce\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f4d69452-68a1-48e0-b77f-d836dadfbbec"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "outfit",
+      "@type" : "oa:Tag",
+      "chars" : "outfit"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "He is wearing a very elengant and pricy outfit. This scene takes place during his sister's wedding, therefore, it's justified.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>He is wearing a very elengant and pricy outfit. This scene takes place during his sister's wedding, therefore, it's justified.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-02-02T15:04:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706886252391",
+    "dcterms:modified" : "2024-02-02T15:04:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c7b2ca3a-7e94-461d-b6d1-799417429290"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=190,192,329,300"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M229.91093,251.06888c-5.86766,2.93383 -14.14859,4.45465 -18.28979,9.97625c-4.45477,5.9397 -3.32542,12.9791 -3.32542,19.95249c0,15.41079 0.38584,30.19522 3.32542,44.89311c1.65362,8.26808 -1.1754,15.45167 4.98812,21.6152c5.27645,5.27645 20.71981,5.75544 26.60333,11.63895c2.59522,2.59522 8.8088,21.93353 9.97625,26.60333c0.65204,2.60817 -0.65204,5.70537 0,8.31354c7.47178,29.88711 4.8599,65.57011 29.92874,86.46081c10.71718,8.93098 26.45317,6.65083 39.90499,6.65083c9.91702,0 21.83209,1.95187 31.59145,0c6.90274,-1.38055 14.37524,-2.86937 21.6152,-1.66271c17.3845,2.89742 46.74131,10.46865 63.1829,4.98812c3.4162,-1.13873 2.55895,-4.35144 3.32542,-6.65083c1.89956,-5.69869 6.82903,-17.93339 3.32542,-24.94062c-0.55424,-1.10847 -2.44909,-0.78638 -3.32542,-1.66271c-1.93026,-1.93026 2.10925,-9.16547 3.32542,-9.97625c0.9223,-0.61487 2.33397,0.49572 3.32542,0c0.65207,-0.32603 3.881,-5.91275 4.98812,-6.65083c2.67835,-1.78556 9.34226,-2.90276 14.96437,-6.65083c3.45457,-2.30305 13.78156,2.84552 16.62708,0c1.51806,-1.51806 4.23073,-0.90531 6.65083,-3.32542c5.69185,-5.69185 14.56992,-18.37471 16.62708,-26.60333c2.25289,-9.01155 -0.16119,-21.21222 3.32542,-29.92874c0.5822,-1.45549 2.77499,-1.85761 3.32542,-3.32542c3.73084,-9.94889 3.32542,-22.79441 3.32542,-33.25416c0,-23.37571 0.19039,-47.83775 -9.97625,-68.17102c-0.92306,-1.84612 -3.52841,-29.07803 -4.98812,-34.91686c-0.40327,-1.61306 1.17571,-3.81241 0,-4.98812c-2.32963,-2.32963 -7.66908,-3.66483 -11.63895,-4.98812c-3.46736,-1.15579 -3.83763,-6.43807 -6.65083,-8.31354c-6.87918,-4.58612 -14.50598,-12.84327 -19.95249,-18.28979c-3.26629,-3.26629 -17.21051,-2.44448 -21.6152,-3.32542c-0.98584,-0.19717 -8.31491,-3.32405 -9.97625,-1.66271c-5.25136,5.25136 -8.40062,16.97539 -9.97625,23.27791c-1.22211,4.88845 -0.8216,35.75798 1.66271,38.24228c2.6046,2.6046 13.40357,21.71711 6.65083,14.96437c-2.07583,-2.07583 -11.93794,0.43235 -14.96437,0c-7.89588,-1.12798 -14.16308,-3.12509 -21.6152,-4.98812c-8.87926,-2.21982 -20.88001,0 -29.92874,0c-9.57276,0 -34.82268,0.09418 -41.5677,-6.65083c-3.28682,-3.28682 -3.09539,-9.89957 -8.31354,-11.63895c-8.1414,-2.7138 -18.57528,1.01331 -26.60333,-1.66271c-6.82021,-2.2734 -15.2811,-5.99102 -23.27791,-3.32542c-4.55858,1.51953 -8.62051,5.7146 -13.30166,6.65083c-6.68351,1.3367 -13.26895,1.65453 -19.95249,3.32542c-13.8862,3.47155 -22.73501,4.13605 -34.91686,14.96437c-1.51711,1.34854 -8.31354,6.34077 -8.31354,9.97625\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_fbf638d8-b530-406e-8022-ad02675191bf\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f4d69452-68a1-48e0-b77f-d836dadfbbec"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Henri, Duke of Guise, portrayed by Miguel Bos&eacute;. He looks slightly taller than Henri III to show his superiority. They also seem close.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Henri, Duke of Guise, portrayed by Miguel Bos&eacute;. He looks slightly taller than Henri III to show his superiority. They also seem close.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "character",
+      "@type" : "oa:Tag",
+      "chars" : "character"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-02-02T14:54:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1706885650112",
+    "dcterms:modified" : "2024-02-02T14:54:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c7b2ca3a-7e94-461d-b6d1-799417429290"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=501,40,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M505.92043,53.20665c0,-3.0303 1.51515,-6.06062 4.54545,-9.09092c0,-2.51038 -2.03507,-4.54545 -4.54545,-4.54545c-2.51038,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06062 4.54545,9.09092z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_600a6b01-9f0a-4bfe-8a17-bee64b0767f4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f4d69452-68a1-48e0-b77f-d836dadfbbec"
+    } ]
+  } ],
+  "@id" : "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Queen_Margot.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
