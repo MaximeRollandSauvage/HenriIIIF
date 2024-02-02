@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Anjou.json", "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Assassination.json" ],
+  "otherContent" : [ "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Anjou.json", "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Assassination.json", "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Queen_Margot.json" ],
   "@id" : "https://maximerollandsauvage.github.io/HenriIIIF/annotations/collection.json",
   "label" : "All annotations loaded in maximerollandsauvage/HenriIIIF project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
