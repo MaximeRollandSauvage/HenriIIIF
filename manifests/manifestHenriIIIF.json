@@ -1,0 +1,402 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://c7b2ca3a-7e94-461d-b6d1-799417429290",
+	"@type": "sc:Manifest",
+	"label": "Images of Henri III",
+	"metadata": [
+		 {
+			"@label" : "collection",
+			"@value" : "collection of Henri III representations"
+		},
+		{
+			"@label" : "projet",
+			"@value" : "to see the representation of Henri III throughout History to understand how his image has evolved with time"
+		},
+		{
+			"@label" : "institution",
+			"@value" : "Association for the promotion of the amazing and wonderful Henri III"
+		},
+		{
+			"@label": "author",
+			"@value": "Maxime Rolland"
+		}
+
+	],
+	"description": "Each of these images depicts Henri III, King of France (1551-1589), some were painted during his reign and some are created long after his death. The goal is to compare these images to understand the representation of Henri III throughout History",
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "These images are from different kinds : drawing, painting or screenshot from a movie and are derived from various sources",
+	"sequences": [
+		{
+			"@id": "http://13901108-9e89-4864-808f-7602cd180865",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://23838d47-482f-498e-aef2-9850e570682f",
+					"@type": "sc:Canvas",
+					"label": "Anjou",
+					"metadata": [
+
+					{	"@label":"introduction",
+						"@value": "This is a drawing of Henri around 18. This portrait may have been order by her mother, Queen Catherine of Medicis, who liked to have portrait of her children"
+					},
+
+
+					{	"@label": "title",
+						"@value": "Le futur Henri III"
+					},
+					{
+						"@label": "attribution",
+						"@value": "Bibliothèque Nationale de France"
+					},
+					{
+						"@label": "author",
+						"@value": "attributed to Jean Decourt"
+					},
+					{	
+						"@label": "date",
+						"@value": "1570"
+					},
+					{
+						"@label": "type",
+						"@value": "drawing"
+					}
+					],
+					"height": 769,
+					"width": 512,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4fd97b8e-053f-4d50-8ce1-ea9d5d894ba5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/anjou/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/anjou",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 769,
+								"width": 512
+							},
+							"on": "http://23838d47-482f-498e-aef2-9850e570682f"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Anjou.json",
+							"@type": "sc:AnnotationList",
+							"label": "My fantastic annotations"
+						}
+					]
+				},
+				{
+					"@id": "http://a08fcd34-2c05-4bcd-9c80-446afc0287d3",
+					"@type": "sc:Canvas",
+					"label": "black_portrait",
+					"metadata": [
+					{	"@label": "title",
+						"@value": "Portrait in black"
+					},
+					{
+						"@label": "attribution",
+						"@value": "Musée du Louvre"
+					},
+					{
+						"@label": "author",
+						"@value": "François Quesnel"
+					},
+					{	
+						"@label": "date",
+						"@value": "around 1600"
+					},
+					{
+						"@label": "type",
+						"@value": "oil on canvas"
+					}],
+					"height": 500,
+					"width": 366,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b1ec5dbb-4fa5-491b-97fa-8a37005ea073",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/Portrait/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/Portrait",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 500,
+								"width": 366
+							},
+							"on": "http://a08fcd34-2c05-4bcd-9c80-446afc0287d3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://90b2a98f-ef56-4e48-9368-756c33cfb1a2",
+					"@type": "sc:Canvas",
+					"label": "Guise_assassination",
+					"metadata": [
+						{	"@label": "title",
+							"@value": "Murder of the Duke of Guise"
+						},
+						{
+							"@label": "attribution",
+							"@value": "Musée de Chantilly"
+						},
+						{
+							"@label": "author",
+							"@value": "Paul Delaroche"
+						},
+						{	
+							"@label": "date",
+							"@value": "1834"
+						},
+						{
+							"@label": "type",
+							"@value": "oil on canvas"
+						}],
+					"height": 733,
+					"width": 1280,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://84a5995a-ea09-412a-9cac-e645af2041be",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/Assasination_Guise/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/Assasination_Guise",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 733,
+								"width": 1280
+							},
+							"on": "http://90b2a98f-ef56-4e48-9368-756c33cfb1a2"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f6940a12-675f-40a1-abca-69f15921b5ec",
+					"@type": "sc:Canvas",
+					"label": "Henri_assassination",
+					"metadata": [
+
+						{	"@label": "title",
+							"@value": "Assassination of Henri III"
+						},
+						{
+							"@label": "attribution",
+							"@value": "Musée de Pau"
+						},
+						{
+							"@label": "author",
+							"@value": "Hugues Merle"
+						},
+						{	
+							"@label": "date",
+							"@value": "1863"
+						},
+						{
+							"@label": "type",
+							"@value": "oil on canvas"
+						}
+						],
+					"height": 768,
+					"width": 976,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://db3e1a5b-9406-44fe-b994-1abadd9d1b7d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/Assassination/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/Assassination",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 768,
+								"width": 976
+							},
+							"on": "http://f6940a12-675f-40a1-abca-69f15921b5ec"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Assassination.json",
+							"@type": "sc:AnnotationList",
+							"label": "My fantastic annotations"
+						}
+						]
+				},
+				{
+					"@id": "http://f4d69452-68a1-48e0-b77f-d836dadfbbec",
+					"@type": "sc:Canvas",
+					"label": "Reine_Margot",
+					"metadata": [
+
+						{	"@label": "title",
+							"@value": "Henri III at the wedding"
+						},
+						{
+							"@label": "attribution",
+							"@value": "Pathé Films"
+						},
+						{
+							"@label": "author",
+							"@value": "Patrice Chéreau"
+						},
+						{	
+							"@label": "date",
+							"@value": "1994"
+						},
+						{
+							"@label": "type",
+							"@value": "screenshot from a movie shot in 35mm"
+						},
+						{	"@label": "movie title",
+							"@value": "Queen Margot"
+						},
+						{	"@label":"actor",
+							"@value":"Pascal Greggory"}
+						],					
+					"height": 700,
+					"width": 1085,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7e0bc51a-abfd-4e62-828c-5e9bf0d6744e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/Reine_Margot/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/Reine_Margot",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 700,
+								"width": 1085
+							},
+							"on": "http://f4d69452-68a1-48e0-b77f-d836dadfbbec"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Queen_Margot.json",
+							"@type": "sc:AnnotationList",
+							"label": "My fantastic annotations"
+						}
+					]
+				},
+				{
+					"@id": "http://3abbd0e8-7218-4fd4-93f0-bb6a025998a4",
+					"@type": "sc:Canvas",
+					"label": "Princesse_Montpensier",
+					"metadata": [
+
+						{	"@label": "title",
+							"@value": "Duke of Anjou"
+						},
+						{
+							"@label": "attribution",
+							"@value": "Gaumont"
+						},
+						{
+							"@label": "author",
+							"@value": "Bertrand Tavernier"
+						},
+						{	
+							"@label": "date",
+							"@value": "2010"
+						},
+						{
+							"@label": "type",
+							"@value": "screenshot from a movie shot in 35mm"
+						},
+						{	"@label": "movie title",
+							"@value": "The Princess of Montpensier"
+						},
+						{	"@label" : "actor",
+							"@value" : "Raphaël Personnaz"}
+					],
+					"height": 183,
+					"width": 276,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://719baf79-db97-41dc-80e8-541d8804a4a2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/princesse_montpensier/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maximerollandsauvage.github.io/HenriIIIF/images/princesse_montpensier",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 183,
+								"width": 276
+							},
+							"on": "http://3abbd0e8-7218-4fd4-93f0-bb6a025998a4"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://maximerollandsauvage.github.io/HenriIIIF/annotations/Princesse_Montpensier.json",
+							"@type": "sc:AnnotationList",
+							"label": "My fantastic annotations"
+				}
+			]
+				}
+	]
+	}],
+	"structures": [
+		{
+			"@id": "http://example.org/iiif/book1/range/top",
+			"@type": "sc:Range",
+			"label": "Table of Content",
+			"viewingHint": "top",
+			"ranges": [
+				"http://example.org/iiif/book1/range/intro"
+			]
+		},
+		{
+			"@id": "http://example.org/iiif/book1/range/intro",
+			"@type": "sc:Range",
+			"label": "Introduction",
+			"canvases": [
+				"http://23838d47-482f-498e-aef2-9850e570682f"
+			]
+		}
+	]
+}
+	
