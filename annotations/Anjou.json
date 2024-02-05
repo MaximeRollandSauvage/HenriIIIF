@@ -43,10 +43,10 @@
       "@type" : "oa:Tag",
       "chars" : "expression"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "He has a melancolic smile, something that appears in many portait of Henri III",
+      "http://dev.llgc.org.uk/sas/full_text" : "He has a melancholic smile, something that appears in many portait of Henri III",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>He has a melancolic smile, something that appears in many portait of Henri III</p>"
+      "chars" : "<p>He has a melancholic smile, something that appears in many portait of Henri III</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/156599009",
@@ -187,7 +187,7 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">He does not wear a crown as he is not the heir yet.",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">e heir yet.",
       "@type" : "dctypes:Text",
       "format" : "text/html",
       "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">He does not wear a crown as he is not the heir yet.</span></p>"
